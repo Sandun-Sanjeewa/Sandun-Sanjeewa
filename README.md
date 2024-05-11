@@ -1,7 +1,7 @@
 # Sandun-Sanjeewa
 <h1 align="center">Hi 👋, I'm Sandun Sanjeewa</h1>
 <h3 align="center">I'm undergraduate student at University of Ruhuna and following bachelor of computer science degree programme</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtxifZDNOWbDBsPNrre5AvJhDPB3x5OV3hNg&s">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif">
 
 - 📫 How to reach me **sanjeewasandun82@gmail.com**
 
