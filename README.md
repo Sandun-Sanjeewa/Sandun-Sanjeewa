@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandun Sanjeewa</h1>
 <h3 align="center">I'm undergraduate student at University of Ruhuna and following bachelor of computer science degree programme</h3>
-<img align="right" alt="coding" width="400" src="https://i.redd.it/n8agw6z2smyb1.gif">
+
 
 
 
