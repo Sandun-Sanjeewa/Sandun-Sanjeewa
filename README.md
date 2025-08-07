@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Spring Boot, .NET**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **sanjeewasandun82@gmail.com**
 
